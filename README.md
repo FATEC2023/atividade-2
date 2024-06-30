@@ -12,13 +12,10 @@
 - Nesse projeto há uma pastas:
     - FazerVsCode:Exclusiva para realizar no VisualStudio Code. 
 
-
-
 - <b>Atenção!</b> Escolhe apenas <b>UMA</b> das pastas para realizar a atividade! 
 
 ## Escopo da Atividade 🛠️
 
-- Crie uma Branch utilizando o seu RGM como identificador;
 - Crie uma Classe em Java, nomeia com seu RGM;
 - Amplifiquei ou Altere o código  e coloque o 
     - Nome Completo;
