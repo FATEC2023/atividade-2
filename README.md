@@ -16,21 +16,27 @@
 
 ## Escopo da Atividade 🛠️
 
-- Crie uma Classe em Java, nomeia com seu RGM;
-- Amplifiquei ou Altere o código  e coloque o 
-    - Nome Completo;
-    - RGM;
-    - Idade;
-    - Seu @gitHub;
-    - Seu @LinkedIn;
-    - Curso e Turma;
+- Utilize a classe [App.Java](src/App.java) realizar as seguintes manipulações:
+    - Crie as variáveis Globais:
+        - Nome Completo - String;
+        - RGM - String;
+        - Idade - Int;
+        - Seu @gitHub - String;
+        - Seu @LinkedIn - String;
+        - Curso e Turma - String;
+    - Utilize o método `obterDados(Scanner sc)` para realizar a entrada de dados das variáveis anteriores:
+    - Utilize o `exibirDados()` para exibição dos dados;
+    - Utilize o método `main(String[] args)` para realizar a chamada dos métodos anteriores ; 
+
+ 
+
 - Comita essa modificação ao Repositório, utilizando a as boas práticas mencionadas anteriormente
 
 
 ## No Microsoft Teams  👥
 
 - Não há necessidade fazer o upload do projeto 
-- Caso tenha realizado em dupla, mencione o NOME e RGM da dupla lá no Teams em um arquivo .txt
+- Enviar o Link do Repositório do GitHub
 
 ## Regras 📄
 
@@ -40,8 +46,8 @@
 - Utilze comentários para elucidar o cenário elaborado;
 
 ## Feedback 📨
--  Sua atividade receberá uma pontuação de 0 a 10, que compõe a Nota de Atividades da M1;
--  A nota será atribuída no Microsoft Teams
+- Sua atividade receberá uma pontuação de 0 a 10, que compõe a Nota de Atividades 1º Bimestre (ATV1);
+- A nota será atribuída automaticamente pelo GitHub;
 
 
 
